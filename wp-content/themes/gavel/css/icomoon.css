@@ -1,0 +1,131 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot');
+  src:  url('fonts/icomoon.eot?#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf') format('truetype'),
+    url('fonts/icomoon.woff') format('woff'),
+    url('fonts/icomoon.svg?#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-link:before {
+  content: "\e91f";
+}
+.icon-pdf:before {
+  content: "\e920";
+}
+.icon-reload:before {
+  content: "\e921";
+}
+.icon-star:before {
+  content: "\e922";
+}
+.icon-reload-alt:before {
+  content: "\e91e";
+}
+.icon-log-out:before {
+  content: "\e91d";
+}
+.icon-facebook-alt:before {
+  content: "\e91c";
+}
+.icon-attendance:before {
+  content: "\e901";
+}
+.icon-calendar:before {
+  content: "\e90f";
+}
+.icon-clock:before {
+  content: "\e911";
+}
+.icon-world-pin:before {
+  content: "\e91b";
+}
+.icon-download:before {
+  content: "\e91a";
+}
+.icon-job:before {
+  content: "\e919";
+}
+.icon-mail-alt:before {
+  content: "\e918";
+}
+.icon-instagram:before {
+  content: "\e902";
+}
+.icon-youtube-play:before {
+  content: "\e903";
+}
+.icon-youtube:before {
+  content: "\e904";
+}
+.icon-linkedin:before {
+  content: "\e905";
+}
+.icon-google-plus:before {
+  content: "\e906";
+}
+.icon-google:before {
+  content: "\e907";
+}
+.icon-twitter:before {
+  content: "\e908";
+}
+.icon-facebook:before {
+  content: "\e909";
+}
+.icon-angle-up:before {
+  content: "\e90a";
+}
+.icon-arrow-down:before {
+  content: "\e90b";
+}
+.icon-arrow-left:before {
+  content: "\e90c";
+}
+.icon-arrow-right:before {
+  content: "\e90d";
+}
+.icon-arrow-up:before {
+  content: "\e90e";
+}
+.icon-globe:before {
+  content: "\e910";
+}
+.icon-mail:before {
+  content: "\e912";
+}
+.icon-mobile:before {
+  content: "\e913";
+}
+.icon-angle-down:before {
+  content: "\e914";
+}
+.icon-angle-left:before {
+  content: "\e915";
+}
+.icon-angle-right:before {
+  content: "\e916";
+}
+.icon-testi:before {
+  content: "\e917";
+}
+.icon-share:before {
+  content: "\e900";
+}

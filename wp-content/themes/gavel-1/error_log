@@ -1,0 +1,11 @@
+[28-Nov-2018 16:34:03 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/gavsitteam/public_html/gavel.ai/beta/wp-content/themes/gavel/index.php on line 15
+[28-Nov-2018 16:37:30 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/gavsitteam/public_html/gavel.ai/beta/wp-content/themes/gavel/index.php on line 15
+[28-Nov-2018 16:37:35 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/gavsitteam/public_html/gavel.ai/beta/wp-content/themes/gavel/index.php on line 15
+[28-Nov-2018 17:48:07 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/gavsitteam/public_html/gavel.ai/beta/wp-content/themes/gavel/index.php on line 15
+[28-Nov-2018 18:00:13 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/gavsitteam/public_html/gavel.ai/beta/wp-content/themes/gavel/index.php on line 15
+[28-Nov-2018 18:00:35 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/gavsitteam/public_html/gavel.ai/beta/wp-content/themes/gavel/index.php on line 15
+[28-Nov-2018 18:02:21 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/gavsitteam/public_html/gavel.ai/beta/wp-content/themes/gavel/index.php on line 15
+[28-Nov-2018 18:06:12 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/gavsitteam/public_html/gavel.ai/beta/wp-content/themes/gavel/index.php on line 15
+[28-Nov-2018 19:53:39 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/gavsitteam/public_html/gavel.ai/beta/wp-content/themes/gavel/index.php on line 15
+[29-Nov-2018 08:54:59 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/gavsitteam/public_html/gavel.ai/beta/wp-content/themes/gavel/index.php on line 15
+[06-Dec-2018 16:12:59 UTC] PHP Fatal error:  Call to undefined function get_header() in /home/gavsitteam/public_html/gavel.ai/beta/wp-content/themes/gavel/index.php on line 15

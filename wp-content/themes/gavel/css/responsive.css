@@ -1,0 +1,347 @@
+@media (min-width: 1250px){
+	.site-content{
+		min-height: calc(100vh - 227px);
+	}
+}
+@media (min-width: 1200px){
+	.gs-btn-wrap{
+		text-align: right;
+	}
+	/* .product-overview-content{
+		max-width: 436px;
+	}
+	.product-overview-item:nth-child(odd) .product-overview-content{
+		margin-left: auto;
+	} */
+}
+@media (min-width: 992px){
+	.sidebar-form{
+		margin-top: -100px;
+	}
+	.campaign-single-inner{
+		padding-top: 0;
+	}
+	
+	.newsletter-tesi{
+		max-width: 200px;
+	}
+	.newsletter-tesi{
+		margin-top: 80px;
+	}
+}
+@media (min-width: 750px){
+	.resource-single-thumb{
+		margin-right: 65px;
+	}
+}
+
+@media (max-width:1100px){
+	
+	.container-inner{
+		padding-right: 0;
+		padding-left: 70px;
+	}
+	.nav-toggle{
+		display: block;
+	}
+	.site-navigation{
+		opacity: 0;
+		visibility: hidden;
+		position: fixed;
+		left: 0;
+		top: 0;
+		width: 100%;
+		height: 100%;
+		padding: 100px 30px 30px;
+		z-index: 999;
+		-webkit-transition: all 0.3s ease;
+		-moz-transition: all 0.3s ease;
+		-ms-transition: all 0.3s ease;
+		-o-transition: all 0.3s ease;
+		transition: all 0.3s ease;
+		background: rgb(47,34,145);
+		background: linear-gradient(110deg, rgba(47,34,145,1) 0%, rgba(75,60,230,1) 62%, rgba(189,78,172,1) 100%);
+		float: none;
+	}
+	.site-navigation::before{
+		content: "";
+		content: "";
+		width: 60%;
+		height: 100%;
+		position: absolute;
+		left: 0;
+		bottom: 0;
+		background: rgb(245,67,55);
+		background: linear-gradient(74deg, rgba(245,67,55,1) 0%, rgba(245,67,55,0) 40%);
+	}
+	.nav-open .site-navigation{
+		opacity: 1;
+		visibility: visible;
+		top: 0;		
+	}
+	html.nav-open{
+		height: 100%;
+		overflow: hidden;
+	}
+	.site-navigation .nav-inner{
+		height: 100%;
+		overflow: auto;
+		position: relative;
+	}
+	.main-navigation{
+		float: none;
+	}
+	.try-it-btn{
+		float: none;
+		text-align: center;
+		margin-top: 20px;
+	}
+	.main-navigation ul li{
+		float: none;
+		margin-bottom: 10px;
+		border-bottom: 1px solid rgba(255,255,255,0.1); 
+		font-family: 'Benton Sans';
+		margin-right: 0;
+
+	}
+	.main-navigation ul li a{
+		font-size: 24px;
+		line-height: 1;
+		padding: 24px 0;
+		display: block;
+		font-weight: normal;
+		color: #fff !important;
+	}
+	.main-navigation ul li a::after{
+		height: 1px;
+		bottom: -1px;
+	}
+
+}
+
+@media (max-width:991px){
+	/* .product-overview-item{
+		text-align: center;
+	}
+	.product-feature-items .product-overview-item{
+		text-align: left;
+	}  */
+	.product-overview-item-main .product-overview-content{
+		padding-top: 40px;
+	}
+	.banner h1,
+	.banner h2{
+		font-size: 40px;
+	}
+
+	.site-footer{
+		text-align: center;
+	}
+	.site-footer .site-info span{
+		display: block;
+		margin-bottom: 30px;
+	}
+	.site-footer .site-info a{
+		margin: 0 10px 30px;
+	}
+	.success-story-left{
+		float: none !important;
+		margin: 0 0 50px !important;
+	}
+	.contact-details-main h2{
+		padding-left: 0;
+	}
+	.container-fluid{
+		padding-left: 25px;
+		padding-right: 25px;
+	}
+}
+@media (max-width:768px){
+	.section-head h2{
+		float: none;
+		margin-bottom: 20px;
+	}
+	.section-head a{
+		float: none;
+		margin-top: 0;
+	}
+	.get-start{
+		text-align: center;
+	}
+	.resource-tab li a{
+		padding: 15px 20px 20px
+	}
+	.testimonials-carousel-content{
+		font-size: 24px;
+	}
+	.banner-image-fix{
+		padding-bottom: 100px;
+	}
+	.page-banner-image{
+		margin-top: -100px;
+	}
+	.page-resouce-wrap{
+		margin-top: -54px;
+	}
+	.banner{
+		padding: 180px 0 90px;
+	}
+	.blog-banner{
+		padding-bottom: 50px;
+	}
+	.single-post .banner{
+		padding-top: 130px;
+	}
+	.news-letter-banner{
+		padding-bottom: 160px;
+	}
+	.site-header-inner{
+		padding: 20px 0;
+	}
+	.site-header.floating-hide .site-header-inner,
+	.single-whitepaper .site-header .site-header-inner,
+	.single-article .site-header .site-header-inner,
+	.single-brochure .site-header .site-header-inner{
+		padding: 10px 0;
+	}
+	.site-header.floating-fix .site-branding a{
+		width: 117px;
+		height: 40px;
+		background-size: 117px 40px;
+	}
+	.resorce-content-wrap{
+		padding-top: 100px;
+	}
+	.nav-toggle{
+		margin-top: 7px;
+	}
+	.home-banner::before,
+	.home-banner::after{
+		transform: none;
+		width: 100%;
+		left: 0;
+	}
+	.container-inner{
+		padding-left: 50px;
+	}
+	.container-inner.no-side-label{
+		padding-left: 0;
+	}
+	.banner h1, .banner h2{
+		font-size: 32px;
+	}
+	.page-banner-image{
+		margin-top: -90px;
+	}
+	.single-title{
+		font-size: 40px;
+	}
+	.testimonials-wrap{
+		padding-top: 90px;
+	}
+	.download-form-main .gform_wrapper .gform_body ul.gform_fields li.gfield{
+		width: 100%;
+	}
+	.download-form-main .gform_wrapper .gform_footer .gform_button.button{
+		position: relative;
+		right: 0;
+		bottom: 0;
+		width: 240px;
+		display: block;
+		margin-top: 25px;
+	}
+
+}
+@media (max-width:600px){
+	
+	.testimonials-carousel{
+		padding-bottom: 60px;
+	}
+	.slick-dots{
+		right: 0;
+		left: 0;
+		bottom: 0;
+		width: 100%;
+	}
+	.resource-tab li a{
+		padding: 15px 10px 20px
+	}
+	.banner li:first-child a{
+		margin: 0 0 30px;
+	}
+	.banner li a,
+	.banner li{
+		display: block;
+	}
+	.home-succes-strory{
+		padding: 80px 0;
+	}
+	.home-successstory-item img{
+		margin-right: none;
+		float: none;
+		margin-bottom: 40px;
+	}
+	.testimonials-carousel{
+		padding-left: 55px;
+		background-size: 27px 23px;
+	}
+	
+}
+@media (max-width:500px){
+	.resource-items .flex-item{
+		width: 100%;
+	}
+	.resource-tab{
+		overflow-x: scroll;
+	  	overflow-y: hidden;
+	  	white-space: nowrap;
+	}
+	.resource-tab li{
+		float: none;
+		display: inline-block;
+	}
+	.single-title{
+		font-size: 32px;
+	}
+	.release-note-item{
+		padding-left: 60px;
+	}
+	.release-note-image{
+		width: 40px;
+		height: 40px;
+		line-height: 44px;
+	}
+	.release-note-item::before{
+		left: 19px;
+	}
+	.gs-btn-wrap li{
+		display: block;
+	}
+	.gs-btn-wrap li:first-child{
+		margin-bottom: 20px;
+	}
+	.resource-single-thumb{
+		float: none;
+		margin-right: 0;
+		margin-bottom: 30px;
+		max-width: 90px;
+	}
+	.subscribe-form span .wpcf7-form-control{
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+}
+@media (max-width:370px){
+	.successstory-item .button,
+	.page-id-28 .page-content-wrap .button,
+	.single-entry .button{
+		padding-left: 20px;
+		padding-right: 20px;
+	}
+	.successstory-item .button i,
+	.page-id-28 .page-content-wrap .button i,
+	.single-entry .button i{
+		margin-right: 15px;
+	}
+
+}
